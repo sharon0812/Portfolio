@@ -1,5 +1,5 @@
 .container{
-    background-image:url("/imgs/back.jpg");
+    background-image:url("/imgs/images.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -17,10 +17,12 @@
     padding: 0 70px;
     box-sizing: border-box;
     align-items: center;
+  
+   
 }
 .logo1 {
     width: 155px;
-    
+    position: fixed;
 }.logo {
     width: 70px;
     margin-left: 100px ;
@@ -43,6 +45,7 @@ nav ul li a {
     width: 155px;
     height: 100vh;
     background: rgba(21, 23, 45, 0.5);
+    position: fixed;
 }
 .social a img {
     width: 30px;
@@ -90,5 +93,25 @@ nav ul li a:hover {
 }
 .sha{
     width: 600px;
+    margin-bottom: 500px;
     
+    
+}
+table, tr, td{
+    border: 2px solid black;
+    padding: 20px 20px 20px 20px;
+}
+table{
+    text-align: center;
+    margin-left: 20%;
+    color: burlywood;
+}
+#about{
+text-align: center;
+margin-left: 300px;
+padding-block-end: 2rem;
+}
+#skills ul, li{
+    text-align: center;
+    margin-left: 300px;
 }
