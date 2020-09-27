@@ -6,7 +6,7 @@
     padding: 0;
 }
 .container{
-    background-image:url("/imgs/images.jpeg");
+    background-image:url("./imgs/images.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -160,9 +160,6 @@ line-height: 40px;
 #project h3{
 text-align: center;
 text-transform: uppercase;
-}
-#skills ul{
-    margin-top: ;
 }
 
 .kipkip{
