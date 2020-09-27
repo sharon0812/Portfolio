@@ -160,6 +160,10 @@ text-transform: uppercase;
 .kipkip{
     background: #1E212D; 
 }
+.kip a{
+    color: blue;
+    text-decoration: none;
+}
 .social p{
     color: white;
 }
