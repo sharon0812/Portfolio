@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    position: relative;
+    background: rgba(21, 23, 45, 0.5);
+    padding: 0 70px;
+    box-sizing: border-box;
+    align-items: center;
+    position: fixed;
+    /* position: fixed; */
+  
+   
+}
+.logo1 {
+    width: 155px;
+    /* position: fixed; */
+}.logo {
+    width: 70px;
+    margin-left: 100px ;
+}
+nav ul li {
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 100px;
+}
+nav ul li a {
+    list-style: none;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+}
+.sidebar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 155px;
+    height: 100vh;
+    background: rgba(21, 23, 45, 0.5);
+    position: fixed;
+}
+.social i {
+    margin-bottom: 20px;
+    margin-left: 15px;
+    align-items: center;
+    color: white;
+}
+.social {
+    margin: 220px auto 0;
+    width: 60px;
+}
+.brief {
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 5%;
+    font-size: 30px;
+    line-height: 50px;
+    
+
+ 
+}
+.brief a {
+    text-decoration: none;
+    background: #fff;
+    padding: 10px;
+    border-radius: 40px;
+}
+.brief a:hover {
+    opacity: 0.7;
+}
+nav ul li a:hover {
+    opacity: 0.7;
+    color: #A8EAE0;
+}
+.social a:hover {
+    opacity: 0.7;
+}  
+* {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.dp{
+    float: right;
+    width: 400px;
+
+}
+.sha{
+    width: 600px;
+    margin-bottom: 500px;
+   
+    
+    
+}
+table, tr, td, th{
+    border: 2px solid black;
+    padding: 20px 20px 20px 20px;
+}
+table{
+    text-align: center;
+    margin-left: 20%;
+    color: burlywood;
+}
+#table{
+  background-color:#1E212D; 
+}
+#about{
+/* text-align: center; */
+margin-left: 300px;
+padding-block-end: 2rem;
+line-height: 40px;
+margin-left: 50%;
+padding-top: 5%;
+
+}#about ul li{
+    list-style: none;
+}
+#Skills{
+margin-left: 50%;
+/* margin-top: 100px; */
+line-height: 40px;
+padding-top: 150px;
+height: 65vh;
+}
+
+.table2{
+    background-color:#1E212D; 
+}
+.kip{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 70px;
+}
+#project img {
+    width: 400px;
+}
+#project p {
+    width: 300px;
+   font-size: 30px;
+  
+}
+
+#project{
+    margin-left: 15%;
+    padding: 100px
+}
+#project h3{
+text-align: center;
+text-transform: uppercase;
+}
+/* #skills ul{
+    margin-top: ;
+} */
+
+.kipkip{
+    background: #1E212D; 
+}
+.social p{
+    color: white;
+}
+
+.icons{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.icons i{
+    color: white;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.me h2{
+    text-align: center;
+    font-size: 30px;
+    padding: 30px;
+}
